@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Image/Cloudy.jpg</file>
+        <file>Image/Partly cloudy.jpg</file>
+        <file>Image/Rainy.jpg</file>
+        <file>Image/Snowy.jpg</file>
+        <file>Image/Sunny.jpg</file>
+        <file>Image/Thunderstorm.jpg</file>
+    </qresource>
+</RCC>
